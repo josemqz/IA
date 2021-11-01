@@ -19,8 +19,8 @@ de separación.
 
 
 · Abrir terminal en [ubicación] y ejecutar:  
-> make compile
-> make run
+> make compile  
+> make run  
 
 · Para eliminar ejecutables y de texto:  
 > make clean
