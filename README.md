@@ -1,7 +1,6 @@
 # Inteligencia Artificial
 USM 2020-2
-
-                                    ~ Codigo fuente ~
+Problema de Planificación de Aterrizaje de Aviones  
 
 José Miguel Quezada Silva  
 201773528-7  
