@@ -1,5 +1,5 @@
 # Inteligencia Artificial
-USM 2020-2
+USM 2020-2  
 Problema de Planificación de Aterrizaje de Aviones  
 
 José Miguel Quezada Silva  
